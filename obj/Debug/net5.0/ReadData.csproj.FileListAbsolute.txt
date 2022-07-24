@@ -1,0 +1,16 @@
+C:\files\ReadData\bin\Debug\net5.0\ReadData.exe
+C:\files\ReadData\bin\Debug\net5.0\ReadData.deps.json
+C:\files\ReadData\bin\Debug\net5.0\ReadData.runtimeconfig.json
+C:\files\ReadData\bin\Debug\net5.0\ReadData.runtimeconfig.dev.json
+C:\files\ReadData\bin\Debug\net5.0\ReadData.dll
+C:\files\ReadData\bin\Debug\net5.0\ref\ReadData.dll
+C:\files\ReadData\bin\Debug\net5.0\ReadData.pdb
+C:\files\ReadData\obj\Debug\net5.0\ReadData.csprojAssemblyReference.cache
+C:\files\ReadData\obj\Debug\net5.0\ReadData.GeneratedMSBuildEditorConfig.editorconfig
+C:\files\ReadData\obj\Debug\net5.0\ReadData.AssemblyInfoInputs.cache
+C:\files\ReadData\obj\Debug\net5.0\ReadData.AssemblyInfo.cs
+C:\files\ReadData\obj\Debug\net5.0\ReadData.csproj.CoreCompileInputs.cache
+C:\files\ReadData\obj\Debug\net5.0\ReadData.dll
+C:\files\ReadData\obj\Debug\net5.0\ref\ReadData.dll
+C:\files\ReadData\obj\Debug\net5.0\ReadData.pdb
+C:\files\ReadData\obj\Debug\net5.0\ReadData.genruntimeconfig.cache
